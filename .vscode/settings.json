@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        ".fantomasignore": "ignore",
+        "xstring": "cpp",
+        "cmath": "cpp",
+        "utility": "cpp",
+        "initializer_list": "cpp",
+        "xutility": "cpp"
+    }
+}
